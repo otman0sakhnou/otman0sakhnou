@@ -21,7 +21,6 @@
   </a>
 </div>
 
-<!-- Animated GitHub Trophy with auto theme detection -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=onestar&no-frame=true&column=7&margin-w=15&no-bg=true" alt="otman0sakhnou" />
 </div>
@@ -161,21 +160,6 @@
   </a>
 </div>
 
-<!-- New section for recent GitHub activity -->
-<div align="center">
-  <h2>📊 Recent GitHub Activity</h2>
-  
-  <!--START_SECTION:activity-->
-  <!-- This section will be auto-updated by a GitHub Action -->
-  <!--END_SECTION:activity-->
-</div>
-
-<!-- Medium blog posts -->
-<div align="center">
-  <h2>📝 Latest Medium Articles</h2>
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Latest Medium posts" />
-</div>
-
 <!-- Fixed GitHub Contribution Graph sections -->
 <h2 align="center">🐍 Contribution Graphs</h2>
 
@@ -193,15 +177,8 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg" />
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg" />
+<img src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg?timestamp=123456" />
   </picture>
-</div>
-
-<!-- Added Spotify Now Playing widget -->
-<div align="center">
-  <h2>🎧 Spotify Now Playing</h2>
-  
-  [![Spotify](https://novatorem-otman0sakhnou.vercel.app/api/spotify)](https://open.spotify.com/user/otman0sakhnou)
 </div>
 
 <!-- Added quotes section with dynamic content -->
@@ -215,4 +192,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </div>
-
