@@ -1,310 +1,183 @@
-<!-- HEADER SECTION WITH 3D ANIMATION -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=600&height=100&lines=Hi+There+%F0%9F%91%8B;I'm+Otmane+Sakhnou;Full+Stack+Developer;DevOps+Engineer;Cloud+Architect;Problem+Solver" alt="Typing SVG" />
+  <!-- Animated header with typing effect -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Otmane+Sakhnou;Full+Stack+Developer;From+Morocco" alt="Typing SVG" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=otman0sakhnou&label=Profile%20views&color=58A6FF&style=flat" alt="otman0sakhnou" />
+</p>
+
+<!-- Enhanced animated dev illustration -->
+<div align="center">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200"/>
+</div>
+
+<!-- About me section with improved animation -->
+<h2 align="center">I'm a Passionate Full Stack Developer 👨‍💻</h2>
+
+<div align="center">
+  <a href="https://github.com/otman0sakhnou">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Web+%26+Mobile+Development;DevOps+%26+Cloud+Infrastructure;Database+Architecture;System+Design;Always+learning+new+things&font=Fira%20Code&center=true&width=580&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- 3D HERO BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Otmane%20Sakhnou&desc=Full%20Stack%20Developer%20|%20DevOps%20Engineer%20|%20Cloud%20Architect&animation=fadeIn&fontAlignY=35&descAlignY=55&descAlign=50&fontSize=60&fontColor=ffffff" width="100%"/>
-
-<!-- THEME TOGGLE AND PROFILE VIEWS -->
+<!-- Animated GitHub Trophy with auto theme detection -->
 <div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=otman0sakhnou&label=Profile%20Views&color=0&icon=5&pretty=true" alt="Profile Views"/>
-  </a>
-  <a href="#"><img src="https://img.shields.io/badge/Change%20Theme-2962FF?style=for-the-badge&logo=adguard&logoColor=white" id="theme-toggle" alt="Theme Toggle"></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=onestar&no-frame=true&column=7&margin-w=15&no-bg=true" alt="otman0sakhnou" />
 </div>
 
-<!-- ABOUT ME SECTION WITH ANIMATED ILLUSTRATION -->
+<!-- Animated Stats Section with improved visuals -->
 <div align="center">
-  <img align="right" height="250" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coding Animation" />
-  
-  ## 💫 About Me
-  
-  🔭 I'm currently working on **Advanced Cloud Architectures**
-  
-  🌱 I'm learning **AI/ML Integration with Web Apps**
-  
-  💬 Ask me about **Full Stack, DevOps, and Cloud Infrastructure**
-  
-  ⚡ Fun fact: **I write code faster than I type my name**
-  
-  <a href="https://www.buymeacoffee.com/otmane"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
-</div>
-
-<!-- SPOTIFY NOW PLAYING -->
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31sgvj4f5pinfjo4zfoelbr3rale&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-</div>
-
-<!-- TECH STACK SECTION WITH ANIMATED RADAR -->
-<h2 align="center">⚙️ Tech Stack</h2>
-<div align="center">
-  <!-- Animated Radar Chart for Skills -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=otman0sakhnou&skills=JavaScript,TypeScript,React,Vue,Angular,Node.js,Python,Java,Docker,Kubernetes&width=820&bg=0D1117&branding=false" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=otman0sakhnou&skills=JavaScript,TypeScript,React,Vue,Angular,Node.js,Python,Java,Docker,Kubernetes&width=820&branding=false" />
-    <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=otman0sakhnou&skills=JavaScript,TypeScript,React,Vue,Angular,Node.js,Python,Java,Docker,Kubernetes&width=820&branding=false" alt="Codersrank skills chart"/>
-  </picture>
-</div>
-
-<!-- ANIMATED SKILL BADGES -->
-<div align="center">
-  <h3>🧰 Languages and Frameworks</h3>
-  <div style="display: inline-block;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js"/>
-    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <h2>⚡ Stats ⚡</h2>
+  <br>
+  <div>
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=otman0sakhnou&theme=tokyonight&hide_border=true&fire=FF5500&ring=58A6FF&currStreakLabel=58A6FF" alt="otman0sakhnou github streak" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otman0sakhnou&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=58A6FF" alt="otman0sakhnou github stats" />
   </div>
-</div>
-
-<!-- ANIMATED METRICS WITH LIVE DATA -->
-<h2 align="center">📈 Live Coding Stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=otman0sakhnou&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=otman0sakhnou&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="192px"/>
-</div>
-
-<!-- ANIMATED CONTRIBUTION GRAPH -->
-<div align="center">
-  <br><p><b>Contribution Graph</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=otman0sakhnou&bg_color=141321&color=A9FEF7&line=626069&point=F8D847&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=otman0sakhnou&bg_color=ffffff&color=37BCF7&line=FF9554&point=403d3d&area=true&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=otman0sakhnou&bg_color=ffffff&color=37BCF7&line=FF9554&point=403d3d&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-  </picture>
-</div>
-
-<!-- ANIMATED STREAK STATS -->
-<div align="center">
-  <br><p><b>Current Streak</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=otman0sakhnou&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=otman0sakhnou&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=otman0sakhnou&theme=default&hide_border=true" alt="GitHub Streak Stats"/>
-  </picture>
-</div>
-
-<!-- ANIMATED TROPHY SHOWCASE -->
-<div align="center">
-  <br><p><b>GitHub Trophies</b></p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=radical&no-frame=true&no-bg=false&margin-w=4" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=flat&no-frame=true&no-bg=false&margin-w=4" />
-    <img src="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=flat&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophy"/>
-  </picture>
-</div>
-
-<!-- DEV CARD WITH METRICS -->
-<h2 align="center">📊 Development Metrics</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.daily.dev/devcards/v2/JLgANVeaNXfUzdkkbfHKn.png?r=isl&type=wide" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.daily.dev/devcards/v2/JLgANVeaNXfUzdkkbfHKn.png?r=isl&type=wide" />
-    <img width="652" src="https://api.daily.dev/devcards/v2/JLgANVeaNXfUzdkkbfHKn.png?r=isl&type=wide" alt="Otmane Sakhnou's Dev Card"/>
-  </picture>
-</div>
-
-<!-- TECH STACK SHOWCASE WITH INTERACTIVE TABS -->
-<h2 align="center">🛠️ Technology Expertise</h2>
-
-<details open>
-  <summary><h3>🧠 Languages</h3></summary>
+  <br>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,java,cs,php,go,kotlin,swift,ruby,c,cpp&theme=dark" alt="Programming Languages"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otman0sakhnou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="otman0sakhnou github top languages" />
   </div>
-</details>
+</div>
 
+<!-- Animated Contribution Graph with enhanced colors -->
+<div align="center">
+  <br>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=otman0sakhnou&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="otman0sakhnou github activity graph" />
+</div>
+
+<!-- Skills section with animated icons -->
+<h2 align="center">🛠️ Languages and Tools</h2>
+
+<div align="center">
+  <!-- Animated skill icons -->
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,nextjs,vue,tailwind,bootstrap,sass,jest,firebase,supabase,aws,gcp,azure,docker,kubernetes,git,github,gitlab,figma,xd,ai&perline=9" alt="Skills" />
+</div>
+
+<!-- Backend Technologies with dropdown animation -->
 <details>
-  <summary><h3>🌐 Frontend</h3></summary>
+  <summary><h3>📚 Backend Technologies</h3></summary>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,vue,angular,svelte,redux,nextjs,nuxtjs,gatsby,tailwind,bootstrap,sass,styledcomponents,materialui&theme=dark" alt="Frontend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,py,django,flask,dotnet,php,laravel,symfony,graphql,apollo,prisma,redis,rabbitmq&perline=8" alt="Backend Skills" />
   </div>
 </details>
-
+  
+<!-- Frontend Technologies with dropdown animation -->
 <details>
-  <summary><h3>⚙️ Backend</h3></summary>
+  <summary><h3>🖥️ Frontend Technologies</h3></summary>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,graphql,apollo,django,flask,fastapi,spring,laravel,dotnet,rails&theme=dark" alt="Backend Technologies"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,angular,svelte,redux,nextjs,nuxtjs,styledcomponents,emotion,materialui,tailwind,bootstrap,sass,webpack,vite&perline=8" alt="Frontend Skills" />
   </div>
 </details>
 
+<!-- Database Technologies with dropdown animation -->
 <details>
-  <summary><h3>🗄️ Database & Storage</h3></summary>
+  <summary><h3>🛢️ Database Technologies</h3></summary>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,cassandra,dynamodb,firebase,supabase,prisma,sequelize,elasticsearch&theme=dark" alt="Database Technologies"/>
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase,supabase,cassandra,redis&perline=8" alt="Database Skills" />
   </div>
 </details>
 
+<!-- DevOps & Cloud with dropdown animation -->
 <details>
   <summary><h3>☁️ DevOps & Cloud</h3></summary>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,githubactions,terraform,ansible,cloudflare,nginx,vercel,netlify,heroku&theme=dark" alt="DevOps & Cloud Technologies"/>
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,githubactions,terraform,prometheus,grafana,nginx,heroku,vercel,bash&perline=8" alt="DevOps Skills" />
   </div>
 </details>
 
-<details>
-  <summary><h3>🧪 Testing & Tools</h3></summary>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,jest,selenium,postman,vscode,bash,powershell,figma,ai,xd&theme=dark" alt="Testing & Tools"/>
-  </div>
-</details>
-
-<!-- ANIMATED PROJECT SHOWCASE -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/otman0sakhnou/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=otman0sakhnou&repo=project1&theme=radical&hide_border=true" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/otman0sakhnou/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=otman0sakhnou&repo=project2&theme=radical&hide_border=true" alt="Project 2"/>
-  </a>
-  <a href="https://github.com/otman0sakhnou/project3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=otman0sakhnou&repo=project3&theme=radical&hide_border=true" alt="Project 3"/>
-  </a>
-  <a href="https://github.com/otman0sakhnou/project4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=otman0sakhnou&repo=project4&theme=radical&hide_border=true" alt="Project 4"/>
-  </a>
-</div>
-
-<!-- ANIMATED WAKATIME STATS -->
-<h2 align="center">⏱️ Weekly Coding Stats</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=otman0sakhnou&theme=radical&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=otman0sakhnou&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otman0sakhnou&hide_border=true" alt="Weekly Stats"/>
-  </picture>
-</div>
-
-<!-- RECENT ACTIVITY -->
-<h2 align="center">📝 Recent GitHub Activity</h2>
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
-
-<!-- LATEST BLOG POSTS -->
-<h2 align="center">📚 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<!-- SVG ANIMATION WAVE -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
-<!-- ANIMATED SOCIAL MEDIA CONNECTION SECTION -->
-<h2 align="center">🔗 Connect With Me</h2>
+<!-- Connect with me section with animated badges -->
+<h2 align="center">🔗 Connect with me</h2>
 <div align="center">
   <a href="https://linkedin.com/in/otman-sakhnou" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/otman_sakhnou" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://otmane-sakhnou.medium.com" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://dev.to/otman0sakhnou" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=plastic&logo=appveyor" alt="otman sakhnou" />
   </a>
   <a href="https://www.hackerrank.com/sakhnouotman" target="_blank">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&style=plastic&logo=appveyor" alt="sakhnouotman" />
   </a>
-  <a href="https://stackoverflow.com/users/12345678" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
+  <a href="mailto:sakhnouotman@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logo=appveyor" alt="Gmail" />
+  </a>
+  <a href="https://twitter.com/otman_sakhnou" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&logo=appveyor" alt="Twitter" />
   </a>
 </div>
 
-<!-- ANIMATED VISITOR MAP -->
-<h2 align="center">🌎 Visitor Map</h2>
+<!-- Added new animated coding metrics section -->
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{otman0sakhnou}/count.svg" alt="Visitor Count"/>
-</div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=otman0sakhnou&style=for-the-badge&color=blueviolet" />
-    <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=otman0sakhnou&style=for-the-badge&color=blue" />
-    <img src="https://komarev.com/ghpvc/?username=otman0sakhnou&style=for-the-badge&color=blue" alt="Profile Views"/>
-  </picture>
+  <h2>💻 Coding Time Stats</h2>
+  <a href="https://wakatime.com/@otman0sakhnou" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otman0sakhnou&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  </a>
 </div>
 
-<!-- ANIMATED FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Let's%20Connect%20and%20Build%20Something%20Amazing!&fontSize=24&fontAlignY=80" width="100%"/>
-
-<!-- CUSTOM 3D INTERACTION -->
+<!-- New section for recent GitHub activity -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <h2>📊 Recent GitHub Activity</h2>
+  
+  <!--START_SECTION:activity-->
+  <!-- This section will be auto-updated by a GitHub Action -->
+  <!--END_SECTION:activity-->
 </div>
 
-<!-- ADDITIONAL WORKFLOWS -->
+<!-- GitHub Contribution Snake Animation -->
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake.svg" />
+</div>
+
+<!-- Added Spotify Now Playing widget -->
+<div align="center">
+  <h2>🎧 Spotify Now Playing</h2>
+  
+  [![Spotify](https://novatorem-otman0sakhnou.vercel.app/api/spotify)](https://open.spotify.com/user/otman0sakhnou)
+</div>
+
+<!-- Added quotes section with dynamic content -->
+<div align="center">
+  <h2>💭 Daily Quote</h2>
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+</div>
+
+<!-- Enhanced footer with wave animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
+</div>
+
+<!-- GitHub Actions workflow for snake animation -->
+<!-- Add this to your repository as .github/workflows/snake.yml -->
 <!--
-name: Waka Readme
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: athul/waka-readme@master
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_TITLE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
-          TIME_RANGE: all_time
-          SHOW_TIME: true
-          SHOW_MASKED_TIME: true
-          
-name: GitHub-Profile-3D-Contrib
-
-on:
-  schedule:
-    - cron: "0 18 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v2
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.0
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: otman0sakhnou
+          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path_dark: dist/github-contribution-grid-snake-dark.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: ${{ github.repository_owner }}
-      - name: Commit & Push
-        run: |
-          git config user.name github-actions
-          git config user.email github-actions@github.com
-          git add -A .
-          git commit -m "generated"
-          git push
-          
-name: Recent Activity
+-->
+
+<!-- GitHub Actions workflow for recent activity -->
+<!--
+name: Update README with recent activity
 
 on:
   schedule:
@@ -314,58 +187,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update README with recent activity
+    name: Update Profile README with recent activity
     steps:
       - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 10
-          
-name: Latest blog post workflow
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
-
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://dev.to/feed/otman0sakhnou,https://medium.com/feed/@otmane-sakhnou"
-          max_post_count: 5
 -->
-
-<!-- MUSIC INTEGRATION -->
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31sgvj4f5pinfjo4zfoelbr3rale&count=5" alt="Spotify Recently Played"/>
-</div>
-
-<!-- Support Section -->
-<div align="center">
-  <h2>💖 Support My Work</h2>
-  <a href="https://www.buymeacoffee.com/otmane"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee"/></a>
-  <a href="https://www.patreon.com/otmane"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/></a>
-</div>
-
-<!-- Theme Toggle Script -->
-<script>
-  const themeToggle = document.getElementById('theme-toggle');
-  if (themeToggle) {
-    themeToggle.addEventListener('click', () => {
-      document.documentElement.classList.toggle('dark-mode');
-      localStorage.setItem('theme', document.documentElement.classList.contains('dark-mode') ? 'dark' : 'light');
-    });
-    
-    // Check for saved theme preference
-    const savedTheme = localStorage.getItem('theme');
-    if (savedTheme === 'dark') {
-      document.documentElement.classList.add('dark-mode');
-    }
-  }
-</script>
