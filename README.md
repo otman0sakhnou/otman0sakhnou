@@ -182,10 +182,10 @@
 <!-- Snake animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otman0sakhnou/otman0sakhnou/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otman0sakhnou/otman0sakhnou/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake animation" src="https://github.com/otman0sakhnou/otman0sakhnou/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-snake.svg" />
+</picture>
 </div>
 
 <!-- Pacman animation -->
