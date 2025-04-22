@@ -163,11 +163,12 @@
 
 
 <!-- Pacman animation -->
-<div align="center">
-  <picture>
-   <img src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg" />
-  </picture>
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/pacman-contribution-graph.svg">
+</picture>
+
 
 <!-- Added quotes section with dynamic content -->
 <div align="center">
