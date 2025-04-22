@@ -1,304 +1,185 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2196F3&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Otmane+Sakhnou;Welcome+to+my+Profile!" alt="Typing SVG" />
-</h1>
+# <div align="center">👋 Hello, I'm Otmane Sakhnou</div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E81F7&width=435&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></div>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&random=false&width=500&height=50&lines=A+passionate+Full+Stack+Developer;From+Morocco+with+%E2%9D%A4%EF%B8%8F;Building+the+web%2C+one+line+at+a+time" alt="Typing SVG" />
-</h3>
+<div align="center"><i>Un développeur Full Stack passionné du Maroc 🇲🇦</i></div>
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=otman0sakhnou&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="otman0sakhnou" />
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/otman-sakhnou)
+[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/sakhnouotman)
+![Profile Views](https://komarev.com/ghpvc/?username=otman0sakhnou&style=for-the-badge&color=0e75b6)
+
 </div>
 
-<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake.svg">
+</picture>
 
-<!-- GitHub Trophies -->
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otman0sakhnou&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-<br>
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=otman0sakhnou&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=otman0sakhnou&show_icons=true&hide_border=true&include_all_commits=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=otman0sakhnou&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" width="400px" alt="GitHub Stats" />
+  </picture>
+  
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=otman0sakhnou&layout=compact&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=otman0sakhnou&layout=compact&hide_border=true" media="(prefers-color-scheme: light)" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otman0sakhnou&layout=compact&theme=transparent&hide_border=true" width="400px" alt="Most Used Languages" />
+  </picture>
+</div>
 
-<!-- About Me Section -->
-<details open>
-  <summary><h2>🧑‍💻 About Me</h2></summary>
-  <p align="center">
-    I'm a Full Stack Developer passionate about building robust, scalable applications using modern technologies. I enjoy solving complex problems and continuously expanding my knowledge in the tech space.
-  </p>
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/main/assets/coding.gif" width="400" alt="coding animation" onerror="this.src='https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'" />
+## 🏆 GitHub Trophies
+<div align="center">
+  <picture>
+    <source srcset="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=darkhub&no-frame=true&row=1&column=6" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=flat&no-frame=true&row=1&column=6" media="(prefers-color-scheme: light)" />
+    <img src="https://github-profile-trophy.vercel.app/?username=otman0sakhnou&theme=flat&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </picture>
+</div>
+
+## 📈 Activity Stats
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=otman0sakhnou&theme=react-dark&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+## 💻 Daily Dev Stats
+<div align="center">
+  <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/otman0sakhnou/interval:today&color=blue&label=today" alt="Daily coding time" />
+  <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/otman0sakhnou/interval:30_days&color=blue&label=last%2030d" alt="Monthly coding time" />
+</div>
+
+## 🔧 Technologies & Tools
+
+<div align="center">
+  <h3>Languages</h3>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,cs,php" alt="Languages" />
+  
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,redux,nextjs,html,css,sass,bootstrap,tailwind,materialui" alt="Frontend" />
+  
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet,laravel,symfony" alt="Backend" />
+  
+  <h3>Database</h3>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,cassandra,redis" alt="Database" />
+  
+  <h3>DevOps & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,azure,heroku,nginx,linux,bash" alt="DevOps & Tools" />
+</div>
+
+## 📊 Weekly Development Breakdown
+
+```text
+JavaScript   11 hrs 40 mins  ██████████████░░░░░░  56.80%
+TypeScript   4 hrs 30 mins   ███████░░░░░░░░░░░░░  22.00%
+CSS          2 hrs 10 mins   ████░░░░░░░░░░░░░░░░  10.52%
+HTML         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░   6.13%
+Other        56 mins         █░░░░░░░░░░░░░░░░░░░   4.55%
+```
+
+## 🚀 Current Projects
+
+<div class="projects-container">
+  <div class="project-card">
+    <img src="https://img.shields.io/badge/Status-In_Progress-blue" alt="Status" />
+    <h4>E-commerce Platform</h4>
+    <p>Building a MERN stack e-commerce solution with advanced features</p>
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
+    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
   </div>
-</details>
-
-<br>
-
-<!-- GitHub Stats Section -->
-<details open>
-  <summary><h2>📊 GitHub Stats</h2></summary>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=otman0sakhnou&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="otman0sakhnou" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=otman0sakhnou&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="otman0sakhnou" />
+  
+  <div class="project-card">
+    <img src="https://img.shields.io/badge/Status-Planning-orange" alt="Status" />
+    <h4>AI-powered Dashboard</h4>
+    <p>Data visualization platform with machine learning insights</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
   </div>
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=otman0sakhnou&theme=tokyonight&hide_border=true" alt="otman0sakhnou" />
-  </div>
-</details>
-
-<br>
-
-<!-- Connect with me Section -->
-<details open>
-  <summary><h2>🌐 Connect with me</h2></summary>
-  <p align="center">
-    <a href="https://linkedin.com/in/otman sakhnou" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otman sakhnou" height="40" width="50" />
-    </a>
-    <a href="https://www.hackerrank.com/sakhnouotman" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sakhnouotman" height="40" width="50" />
-    </a>
-    <a href="https://github.com/otman0sakhnou" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="otman0sakhnou" height="40" width="50" />
-    </a>
-  </p>
-</details>
-
-<br>
-
-<!-- Skills Section -->
-<details open>
-  <summary><h2>🛠️ Languages and Tools</h2></summary>
-  
-  <h3 align="left">Frontend Development</h3>
-  <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
-    </a>
-    <a href="https://angular.io" target="_blank" rel="noreferrer">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
-    </a>
-    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" />
-    </a>
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-    </a>
-    <a href="https://materializecss.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40" />
-    </a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
-    </a>
-    <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-      <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" />
-    </a>
-    <a href="https://canvasjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40" />
-    </a>
-    <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" />
-    </a>
-  </p>
-  
-  <h3 align="left">Backend Development</h3>
-  <p align="left">
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-    </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" />
-    </a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-    </a>
-    <a href="https://symfony.com" target="_blank" rel="noreferrer">
-      <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40" />
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40" />
-    </a>
-  </p>
-  
-  <h3 align="left">Programming Languages</h3>
-  <p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-    </a>
-  </p>
-  
-  <h3 align="left">Database</h3>
-  <p align="left">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" />
-    </a>
-    <a href="https://redis.io" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-    </a>
-    <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40" />
-    </a>
-    <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" />
-    </a>
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-      <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" />
-    </a>
-    <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-    </a>
-  </p>
-  
-  <h3 align="left">DevOps & Cloud</h3>
-  <p align="left">
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://travis-ci.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40" />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" />
-    </a>
-    <a href="https://heroku.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" />
-    </a>
-    <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-    </a>
-    <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40" />
-    </a>
-  </p>
-  
-  <h3 align="left">Mobile App Development</h3>
-  <p align="left">
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
-    </a>
-    <a href="https://ionicframework.com" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40" />
-    </a>
-  </p>
-  
-  <h3 align="left">AI & Data Science</h3>
-  <p align="left">
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
-    </a>
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-    </a>
-    <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" />
-    </a>
-  </p>
-  
-  <h3 align="left">Other</h3>
-  <p align="left">
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-    </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-    </a>
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" />
-    </a>
-    <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40" />
-    </a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a>
-    <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-  </p>
-</details>
-
-<br>
-
-<!-- Current Focus Section -->
-<details open>
-  <summary><h2>🔍 Currently Focusing On</h2></summary>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=otman0sakhnou&theme=react-dark&hide_border=true&area=true" alt="Activity Graph">
-  </p>
-</details>
-
-<br>
-
-<!-- Footer with Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/main/assets/footer.svg" width="100%" alt="Footer" onerror="this.onerror=null;this.src='https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer'">
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Quote" />
+  <img src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 </div>
 
+## 🌍 Localisation / Localization
+
+<details>
+<summary>🇫🇷 Version Française</summary>
+<br>
+
+# <div align="center">👋 Bonjour, Je suis Otmane Sakhnou</div>
+<div align="center"><i>Développeur Full Stack passionné du Maroc 🇲🇦</i></div>
+
+### 🚀 À propos de moi
+Je suis un développeur Full Stack passionné par la création d'applications web robustes et évolutives. J'adore apprendre de nouvelles technologies et relever des défis techniques.
+
+### 🔧 Compétences techniques
+- **Langages**: JavaScript, TypeScript, Python, Java, C++, C#, PHP
+- **Frontend**: React, Angular, Vue, Redux, Next.js, HTML, CSS, SASS
+- **Backend**: Node.js, Express, Spring, .NET, Laravel, Symfony
+- **Base de données**: MongoDB, MySQL, PostgreSQL, SQLite, Cassandra, Redis
+- **DevOps**: Docker, Kubernetes, Jenkins, Git, Azure, Heroku, Linux
+
+### 📫 Comment me contacter
+Vous pouvez me contacter sur [LinkedIn](https://linkedin.com/in/otman-sakhnou) ou via [HackerRank](https://www.hackerrank.com/sakhnouotman).
+
+</details>
+
 <div align="center">
-  <sub>Built with ❤️ by Otmane Sakhnou</sub>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="Developer GIF" />
 </div>
+
+<style>
+  /* CSS styles for GitHub dark mode compatibility */
+  .projects-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    margin: 20px 0;
+  }
+  
+  .project-card {
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #2d333b;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    width: 45%;
+    min-width: 300px;
+    transition: transform 0.3s ease;
+  }
+  
+  .project-card:hover {
+    transform: translateY(-5px);
+  }
+  
+  @media (prefers-color-scheme: light) {
+    .project-card {
+      background-color: #f0f6fc;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    }
+  }
+  
+  h4 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  /* For dark/light theme switching */
+  :root {
+    color-scheme: light dark;
+  }
+</style>
