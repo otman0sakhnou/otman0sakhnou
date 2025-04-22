@@ -152,14 +152,6 @@
   </a>
 </div>
 
-<!-- Added new animated coding metrics section -->
-<div align="center">
-  <h2>💻 Coding Time Stats</h2>
-  <a href="https://wakatime.com/@otman0sakhnou" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=otman0sakhnou&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-  </a>
-</div>
-
 <!-- Fixed GitHub Contribution Graph sections -->
 <h2 align="center">🐍 Contribution Graphs</h2>
 
@@ -173,11 +165,12 @@
 </div>
 
 <!-- Pacman animation -->
+<!-- Pacman animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg" />
-<img src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg?timestamp=123456" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg?sanitize=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman.svg?sanitize=true" />
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman.svg?sanitize=true" />
   </picture>
 </div>
 
@@ -192,3 +185,4 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </div>
+
