@@ -147,9 +147,6 @@
   <a href="mailto:sakhnouotman@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic&logo=appveyor" alt="Gmail" />
   </a>
-  <a href="https://twitter.com/otman_sakhnou" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&style=plastic&logo=appveyor" alt="Twitter" />
-  </a>
 </div>
 
 <!-- Fixed GitHub Contribution Graph sections -->
@@ -164,7 +161,7 @@
 </picture>
 </div>
 
-<!-- Pacman animation -->
+
 <!-- Pacman animation -->
 <div align="center">
   <picture>
