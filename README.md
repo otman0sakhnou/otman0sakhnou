@@ -165,9 +165,7 @@
 <!-- Pacman animation -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg?sanitize=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman.svg?sanitize=true" />
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman.svg?sanitize=true" />
+   <img src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-pacman-dark.svg" />
   </picture>
 </div>
 
