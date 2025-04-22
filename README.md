@@ -32,11 +32,11 @@
   <br>
   <div>
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=otman0sakhnou&theme=tokyonight&hide_border=true&fire=FF5500&ring=58A6FF&currStreakLabel=58A6FF" alt="otman0sakhnou github streak" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otman0sakhnou&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&icon_color=58A6FF" alt="otman0sakhnou github stats" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=otman0sakhnou&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false&icon_color=58A6FF" alt="otman0sakhnou github stats" />
   </div>
   <br>
   <div align="center">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otman0sakhnou&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="otman0sakhnou github top languages" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otman0sakhnou&layout=compact&theme=dracula&hide_border=false&langs_count=8" alt="otman0sakhnou github top languages" />
   </div>
 </div>
 
@@ -49,9 +49,59 @@
 <!-- Skills section with animated icons -->
 <h2 align="center">🛠️ Languages and Tools</h2>
 
-<div align="center">
-  <!-- Animated skill icons -->
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nodejs,express,nextjs,vue,tailwind,bootstrap,sass,jest,firebase,supabase,aws,gcp,azure,docker,kubernetes,git,github,gitlab,figma,xd,ai&perline=9" alt="Skills" />
+<!-- Technology icons with scrolling effect -->
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
 </div>
 
 <!-- Backend Technologies with dropdown animation -->
@@ -120,10 +170,31 @@
   <!--END_SECTION:activity-->
 </div>
 
-<!-- GitHub Contribution Snake Animation -->
+<!-- Medium blog posts -->
 <div align="center">
-  <h2>🐍 Contribution Graph</h2>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/github-contribution-grid-snake.svg" />
+  <h2>📝 Latest Medium Articles</h2>
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Latest Medium posts" />
+</div>
+
+<!-- Fixed GitHub Contribution Graph sections -->
+<h2 align="center">🐍 Contribution Graphs</h2>
+
+<!-- Snake animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otman0sakhnou/otman0sakhnou/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/otman0sakhnou/otman0sakhnou/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution snake animation" src="https://github.com/otman0sakhnou/otman0sakhnou/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<!-- Pacman animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/otman0sakhnou/otman0sakhnou/output/pacman-contribution-graph.svg" />
+  </picture>
 </div>
 
 <!-- Added Spotify Now Playing widget -->
@@ -145,7 +216,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62" />
 </div>
 
-<!-- GitHub Actions workflow for snake animation -->
-<!-- Add this to your repository as .github/workflows/snake.yml -->
-<!--
--->
